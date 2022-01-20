@@ -40,7 +40,16 @@ export const Form = styled.form`
     font-family: inherit;
     
   }
+  img{
+    position:absolute;
+    top:138px;
+    right:480px;
+    width:20px;
+    height:20px;
 
+    /* margin-left:90%; 
+    display: flex; */
+  }
   input[type='text']:focus,
   textarea:focus {
     border: 1px solid #ff5c00;

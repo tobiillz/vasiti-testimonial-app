@@ -25,7 +25,7 @@ export const FooterSection = styled.footer`
       color: white;
     }
 
-    :placeholder {
+    ::placeholder {
       color: red;
     }
 
